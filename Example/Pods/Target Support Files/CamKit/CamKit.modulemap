@@ -1,0 +1,6 @@
+framework module CamKit {
+  umbrella header "CamKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

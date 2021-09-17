@@ -1,6 +1,6 @@
 # CamKit
 
-[![CI Status](https://img.shields.io/travis/riajur-bitsmedia/CamKit.svg?style=flat)](https://travis-ci.org/riajur-bitsmedia/CamKit)
+[![CI Status](https://img.shields.io/travis/riazurcse/CamKit.svg?style=flat)](https://travis-ci.org/riazurcse/CamKit)
 [![Version](https://img.shields.io/cocoapods/v/CamKit.svg?style=flat)](https://cocoapods.org/pods/CamKit)
 [![License](https://img.shields.io/cocoapods/l/CamKit.svg?style=flat)](https://cocoapods.org/pods/CamKit)
 [![Platform](https://img.shields.io/cocoapods/p/CamKit.svg?style=flat)](https://cocoapods.org/pods/CamKit)
@@ -22,7 +22,7 @@ pod 'CamKit'
 
 ## Author
 
-riajur-bitsmedia, riajur@bitsmedia.com
+riazurcse, riazur90bd@gmail.com
 
 ## License
 

@@ -1,0 +1,16 @@
+PODS:
+  - CamKit (1.0.0)
+
+DEPENDENCIES:
+  - CamKit (from `../`)
+
+EXTERNAL SOURCES:
+  CamKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CamKit: 9211c7e4b65dd44a9e4b0bc8ab2c32faecfbff89
+
+PODFILE CHECKSUM: 6e4ba967244d8d8eaa560f785c9a5b1599c38c1b
+
+COCOAPODS: 1.10.2
